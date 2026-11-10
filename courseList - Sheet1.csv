@@ -1,0 +1,26 @@
+ID,Course,Title,Credits,Day(s),Times,Duration (min),Professor
+10001,MATH 304,Linear Algebra,3,MWF,10:00 AM,50,G. Daniels
+10002,MATH 304,Linear Algebra,3,MWF,12:00 PM,50,G. Daniels
+10003,MATH 304,Linear Algebra,3,TR,11:00 AM,75,G. Daniels
+10004,MATH 304,Linear Algebra,3,TR,2:30 PM,75,P. Liberstein
+10005,ENGL 231,Survey of English Literature I,3,MWF,11:00 AM,50,R. Gervais
+10006,ENGL 231,Survey of English Literature I,3,TR,11:00 AM,75,S. Carell
+10007,ENGL 231,Survey of English Literature I,3,W,7:00 PM,150,R. Gervais
+10008,ENGL 231,Survey of English Literature I,3,R,4:00 PM,150,R. Gervais
+10009,ENGL 313,Medieval English Literature,3,TR,4:00 PM,75,S. Carell
+10010,ASTR 104,Introduction to Galaxies and Cosmology,3,MWF,10:00 AM,50,R. Wilson
+10011,ASTR 104,Introduction to Galaxies and Cosmology,3,MWF,1:00 PM,50,R. Wilson
+10012,ASTR 104,Introduction to Galaxies and Cosmology,3,MWF,4:00 PM,50,R. Wilson
+10013,ASTR 104,Introduction to Galaxies and Cosmology,3,MWF,7:00 PM,50,R. Wilson
+10014,BIOL 107,Zoology,4,TR,4:00 PM,75,J. Krasinski
+10015,BIOL 107,Zoology,4,TR,5:30 PM,75,J. Krasinski
+10016,BIOL 107,Zoology,4,M,8:00 AM,150,J. Fischer
+10017,BIOL 107,Zoology,4,F,7:00 PM,150,J. Fischer
+10018,DCED 201,Dance History,3,MWF,10:30 AM,50,B. Novak
+10019,DCED 201,Dance History,3,MWF,1:30 PM,50,B. Novak
+10020,DCED 202,Dance Appreciation,3,TR,11:40 AM,75,M. Hardin
+10021,ECON 311,Money and Banking,3,MWF,9:00 AM,50,D. Denman
+10022,ACCT 200,Opportunities in Accounting,1,M,10:00 AM,50,B. Baumgartner
+10023,ACCT 200,Opportunities in Accounting,1,T,10:00 AM,50,B. Baumgartner
+10024,ACCT 200,Opportunities in Accounting,1,W,10:00 AM,50,B. Baumgartner
+10025,ACCT 200,Opportunities in Accounting,1,R,10:00 AM,50,B. Baumgartner
